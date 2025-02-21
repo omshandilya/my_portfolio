@@ -1,16 +1,30 @@
-# my_profile
+# 📱 My Profile – A Flutter Portfolio App  
 
-A new Flutter project.
+![Profile App Banner](image1.png)  
 
-## Getting Started
+A **beautiful and responsive** portfolio application built with **Flutter**, showcasing personal projects, skills, and experience.  
 
-This project is a starting point for a Flutter application.
+## 🚀 Features  
 
-A few resources to get you started if this is your first Flutter project:
+✅ **Modern UI** – A clean and interactive design to showcase your profile.  
+✅ **Responsive Layout** – Works smoothly across mobile, tablet, and web.  
+✅ **Projects Showcase** – Displays past work with images and descriptions.  
+✅ **Social Media Integration** – Links to GitHub, LinkedIn, and other platforms.  
+✅ **Smooth Animations** – Uses Flutter's built-in animations for a polished user experience.  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![App Preview](image2.png)(image3.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack  
+
+- **Flutter** – Frontend framework  
+- **Dart** – Programming language  
+- **Provider** – State management (if used)  
+- **Firebase** – Backend (if applicable)  
+- **GitHub Actions** – CI/CD (if applicable)  
+
+## 📥 Installation  
+
+1️⃣ Clone this repository:  
+```sh
+git clone https://github.com/yourusername/my_profile.git
+cd my_profile
