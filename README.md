@@ -12,15 +12,12 @@ A **beautiful and responsive** portfolio application built with **Flutter**, sho
 ✅ **Social Media Integration** – Links to GitHub, LinkedIn, and other platforms.  
 ✅ **Smooth Animations** – Uses Flutter's built-in animations for a polished user experience.  
 
-![App Preview](image2.png)(image3.png)
-
+![App Preview](image2.png)
+![App Preview](image3.png)
 ## 🛠️ Tech Stack  
 
 - **Flutter** – Frontend framework  
 - **Dart** – Programming language  
-- **Provider** – State management (if used)  
-- **Firebase** – Backend (if applicable)  
-- **GitHub Actions** – CI/CD (if applicable)  
 
 ## 📥 Installation  
 
